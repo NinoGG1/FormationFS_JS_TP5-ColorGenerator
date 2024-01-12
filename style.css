@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.color-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: azure;
+  font-weight: 200;
+  background: rgb(5, 4, 4);
+  border: 1px solid;
+  border-radius: 10px;
+  width: 300px;
+}
